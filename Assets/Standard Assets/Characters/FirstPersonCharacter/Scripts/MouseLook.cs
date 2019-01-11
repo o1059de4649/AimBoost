@@ -24,9 +24,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private bool m_cursorIsLocked = true;
 
         void Start(){
-            XSensitivity = PlayerPrefs.GetFloat("Sensitivity",20)/10;
-            YSensitivity =PlayerPrefs.GetFloat("Sensitivity",20)/10;
-            Debug.Log(XSensitivity);
+          
         }
 
         public void Init(Transform character, Transform camera)

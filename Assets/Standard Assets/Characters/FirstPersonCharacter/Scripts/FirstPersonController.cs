@@ -73,7 +73,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         // Update is called once per frame
         private void Update()
         {
-            if(Input.GetKeyDown(KeyCode.D)){
+            if(Input.GetKeyDown(KeyCode.K)){
                 PlayerPrefs.DeleteKey("HighScore");
                 PlayerPrefs.DeleteKey("HighKpm");
             }

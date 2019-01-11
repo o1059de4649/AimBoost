@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{537C790D-59C7-D749-906D-D326BC1E1756}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AimBoostAsset/ChangeColor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
     <Files>
-      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="297" Column="165" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="79" Column="14" />
       <File FileName="Assets/AimBoostAsset/InstatinateBall.cs" Line="29" Column="11" />
-      <File FileName="Assets/AimBoostAsset/Timer.cs" Line="8" Column="1" />
+      <File FileName="Assets/AimBoostAsset/Timer.cs" Line="94" Column="14" />
       <File FileName="Assets/AimBoostAsset/FPSCalc.cs" Line="4" Column="53" />
       <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" Line="27" Column="11" />
       <File FileName="Assets/ShowHighScore.cs" Line="20" Column="13" />
       <File FileName="Assets/AimBoostAsset/SencePanel.cs" Line="31" Column="9" />
-      <File FileName="Assets/AimBoostAsset/ChangeColor.cs" Line="13" Column="20" />
+      <File FileName="Assets/AimBoostAsset/ChangeColor.cs" Line="15" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
